@@ -9,7 +9,7 @@ Projeto prático para aprender a usar **React + Firebase Firestore** com operaç
 - React com Vite
 - Tailwind CSS
 - Firebase Firestore
-- Vercel (opcional para deploy)
+- Deploy (Indico vercel)
 - **StackBlitz** como ambiente de desenvolvimento
 
 ---
@@ -105,7 +105,7 @@ import './index.css';
 - Descrição
 - Valor
 - Categoria (Recomendo um select, coloque "Outro" para outras categorias)
-- Data
+- Data e Hora
 
 ### 2. Salvar transações no Firestore
 
